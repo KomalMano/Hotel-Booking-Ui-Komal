@@ -1,3 +1,12 @@
+#OutPut
+
+![reserv1](https://user-images.githubusercontent.com/56540613/200831681-db037e0b-1aa1-4653-a590-06caab40cb40.PNG)
+
+![reserv2](https://user-images.githubusercontent.com/56540613/200831711-db3da0b0-b10c-4ad0-aae9-af4972120bd2.PNG)
+
+![reserv3](https://user-images.githubusercontent.com/56540613/200831740-5328ded2-f474-482a-8808-018d9c0cf673.PNG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
